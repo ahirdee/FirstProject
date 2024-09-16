@@ -16,6 +16,7 @@ public class FirstProject {
     //demostration of show change
     //show history
     //demonstrating pull
+    //fetch and merge
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
